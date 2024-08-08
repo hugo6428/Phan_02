@@ -1,0 +1,14 @@
+F:\Phan02\Phan02\LuaChonHD\bin\Debug\net8.0\LuaChonHD.exe
+F:\Phan02\Phan02\LuaChonHD\bin\Debug\net8.0\LuaChonHD.deps.json
+F:\Phan02\Phan02\LuaChonHD\bin\Debug\net8.0\LuaChonHD.runtimeconfig.json
+F:\Phan02\Phan02\LuaChonHD\bin\Debug\net8.0\LuaChonHD.dll
+F:\Phan02\Phan02\LuaChonHD\bin\Debug\net8.0\LuaChonHD.pdb
+F:\Phan02\Phan02\LuaChonHD\obj\Debug\net8.0\LuaChonHD.GeneratedMSBuildEditorConfig.editorconfig
+F:\Phan02\Phan02\LuaChonHD\obj\Debug\net8.0\LuaChonHD.AssemblyInfoInputs.cache
+F:\Phan02\Phan02\LuaChonHD\obj\Debug\net8.0\LuaChonHD.AssemblyInfo.cs
+F:\Phan02\Phan02\LuaChonHD\obj\Debug\net8.0\LuaChonHD.csproj.CoreCompileInputs.cache
+F:\Phan02\Phan02\LuaChonHD\obj\Debug\net8.0\LuaChonHD.dll
+F:\Phan02\Phan02\LuaChonHD\obj\Debug\net8.0\refint\LuaChonHD.dll
+F:\Phan02\Phan02\LuaChonHD\obj\Debug\net8.0\LuaChonHD.pdb
+F:\Phan02\Phan02\LuaChonHD\obj\Debug\net8.0\LuaChonHD.genruntimeconfig.cache
+F:\Phan02\Phan02\LuaChonHD\obj\Debug\net8.0\ref\LuaChonHD.dll
